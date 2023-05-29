@@ -1,0 +1,14 @@
+.fixed-box {
+	height: 40px;
+}
+.fixed-div {
+	height: 20px;
+	text-align: center;
+	background: #FFA500;
+	padding: 10px 0;	
+}
+.fixed {
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+}
